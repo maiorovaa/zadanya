@@ -1,5 +1,5 @@
 задание 1. 
-/*using System;
+using System;
 
 class Program
 {
@@ -26,8 +26,7 @@ class Program
         Console.WriteLine($"Конечная сумма вклада: {depositAmount:F2}");
     }
 }
-*/
-/*
+
 Задание 2
 using System;
 
@@ -60,8 +59,7 @@ class Program
         Console.WriteLine($"Конечная сумма вклада: {depositAmount:F2}");
     }
 }
-*/
-/*
+
 задание 3
 using System;
 
@@ -86,8 +84,7 @@ class Program
         }
     }
 }
-*/
-/*
+
 задание 4
 using System;
 
